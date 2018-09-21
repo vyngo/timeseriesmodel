@@ -1,0 +1,6 @@
+-AirPassengers-12.txt :  Monthly Airline Passenger Numbers 1949-1960
+-Co2-12.txt: Mauna Loa (Hawaii) Atmospheric CO2 Concentration (monthly)
+-UKgas-4.txt: UK Quarterly Gas Consumption
+-mdeaths.txt:  Monthly Deaths from Lung Diseases in the UK
+-fancy-12.txt: monthly sales for a souvenir shop at a beach resort town in Queensland, Australia, for January 1987-December 1993
+-reddeer.txt: MONTHLY RIVERFLOW OF RED DEER RIVER AT RED DEER ALBERTA, 1942-74        

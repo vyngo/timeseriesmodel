@@ -1,0 +1,4 @@
+﻿Ứng với mỗi bộ dữ liệu:
++ chạy neuron thuần túy cho hai giải thuật, chọn giải thuật tốt cho kết quả tốt nhất.
++ Chạy neuron kết hợp với khử: tổ hợp 4 trường hợp, giải thuật train neuron là giải thuật ở trên, lấy cái tốt nhất.
++ Chạy mô hình lai neuron train với giải thuật trên, chạy cho R và simulate, steep. (lấy neuron ở trên) 

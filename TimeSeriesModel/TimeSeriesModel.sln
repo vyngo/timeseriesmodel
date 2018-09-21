@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeSeriesModel", "TimeSeriesModel\TimeSeriesModel.csproj", "{46044F5C-31AA-4F2B-A550-70782FF5C93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridModel", "HybridModel\HybridModel.csproj", "{4ABC8F4E-F0E2-46A4-8476-9FC5FAC479E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46044F5C-31AA-4F2B-A550-70782FF5C93B}.Debug|x86.ActiveCfg = Debug|x86
+		{46044F5C-31AA-4F2B-A550-70782FF5C93B}.Debug|x86.Build.0 = Debug|x86
+		{46044F5C-31AA-4F2B-A550-70782FF5C93B}.Release|x86.ActiveCfg = Release|x86
+		{46044F5C-31AA-4F2B-A550-70782FF5C93B}.Release|x86.Build.0 = Release|x86
+		{4ABC8F4E-F0E2-46A4-8476-9FC5FAC479E5}.Debug|x86.ActiveCfg = Debug|x86
+		{4ABC8F4E-F0E2-46A4-8476-9FC5FAC479E5}.Debug|x86.Build.0 = Debug|x86
+		{4ABC8F4E-F0E2-46A4-8476-9FC5FAC479E5}.Release|x86.ActiveCfg = Release|x86
+		{4ABC8F4E-F0E2-46A4-8476-9FC5FAC479E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

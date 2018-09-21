@@ -1,0 +1,6 @@
++ ket hop lam tron ham mu voi ANN theo 2 phuong phap
++ hien thuc X-11 (?) 
++ tai lieu tham khao cho smoothing:
+
+http://en.wikipedia.org/wiki/Exponential_smoothing
+http://www.itl.nist.gov/div898/handbook/pmc/section4/pmc435.htm

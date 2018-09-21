@@ -1,0 +1,17 @@
+8/28/2012:
+	- change UI (add neuron network)
+
+28/8/2012
+	- change lag textbox, only visible when uset tick on seasonal difference, change group: scale to transformations
+1/9/2012
+	- implement seasonal adjustment
+9/9/2012
+	- add two algorithms (Back Propagation and Resilient Propagation in class Algorithm
+	- add training algorithm in main process
+10/9/2012
+	-Define ProcessType class and add a static List preProcessTypeList to TimeSeries class for tracking preprocess sequence.
+	- Add two method processDataForANN() and convertToOriginalDataForANN() to support ANN.
+30/9/2012
+        - add validate method
+        - need rearchitect program
+	- need more build to run
